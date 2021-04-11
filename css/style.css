@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    overflow: hidden;
+}
+.logo{
+    background-color: darksalmon;
+    height: 70px;
+    width: 20%;
+    float: left;
+    text-align: center;
+}
+.id{
+    background-color: lightskyblue;
+    height: 70px;
+    width: 80%;
+    float: right;
+    text-align: center;
+
+}
+.bar{
+    background-color: mediumpurple;
+    height: 60px;
+    text-align: center;
+}
+.content{
+    overflow: hidden;
+}
+
+
+.left{
+    background-color: mediumseagreen;
+    height: 400px;
+    width: 30%;
+    float: left;
+    text-align: center;
+
+
+}
+.center{
+    background-color: moccasin;
+    height: 400px;
+    width: 45%;
+    float: left;
+    text-align: center;
+
+}
+
+.right{
+    background-color: orchid;
+    height: 400px;
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.image{
+    background-color: lightsteelblue;
+    height: 100px;
+
+}
+.paragraph{
+    background-color: palevioletred;
+    height: 100px;
+
+}
+.links{
+    background-color: sandybrown;
+    height: 200px;
+
+}
+.links_2{
+    background-color:aquamarine;
+    height: 150px;
+
+}
+.list{
+    background-color: tomato;
+    height: 250px;
+}
+.image_2{
+    background-color: blanchedalmond;
+    height: 80px;
+
+}
+.paragraph_2{
+    background-color: springgreen;
+    height: 200px;
+
+}
+.list_2{
+    background-color: gray;
+    height: 120px;
+
+}
+.footer{
+    background-color: darkmagenta;
+    height: 100px;
+    text-align: center;
+    
+}
